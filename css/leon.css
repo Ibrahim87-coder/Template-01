@@ -509,7 +509,7 @@ html {
     color: var(--secondary-color);
 }
 
-@media(max-width) {
+@media(max-width:767px) {
     .contact .info .label,
     .contact .info .link {
         font-size: 25px;
